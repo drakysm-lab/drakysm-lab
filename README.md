@@ -1,4 +1,14 @@
-## Hi there 👋
+## Keep going, friend. ☕
+
+### actually...
++ 🌱 learning `CS`, `Python` and `C`.
++ 🤔 **Goals**:
+  + *uh?*
+  <!--+ 𓇲 working with embedded systems;
+  + 🕹️ making my own games for fun; -->
+
+## coding with...
+[![My Skills](https://skillicons.dev/icons?i=c,linux,windows,python,godot)](https://skillicons.dev)
 
 <!--
 **drakysm-lab/drakysm-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
