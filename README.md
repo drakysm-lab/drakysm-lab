@@ -8,7 +8,7 @@
   + 🕹️ making my own games for fun; -->
 
 ## coding with...
-[![My Skills](https://skillicons.dev/icons?i=c,linux,windows,python,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,windows,python,lua)](https://skillicons.dev)
 
 <!--
 **drakysm-lab/drakysm-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
